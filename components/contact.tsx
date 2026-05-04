@@ -11,7 +11,7 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "cathadservices@gmail.com",
+    value: "cathadservice@gmail.com",
     href: "mailto:cathadservice@gmail.com",
   },
   {
@@ -23,7 +23,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: "Zone d'intervention",
-    value: "Votre région",
+    value: " luneville et environ ",
   },
   {
     icon: Clock,
