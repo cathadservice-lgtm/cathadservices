@@ -12,12 +12,12 @@ const contactInfo = [
     icon: Mail,
     label: "Email",
     value: "cathadservices@gmail.com",
-    href: "mailto:cathadservices@gmail.com",
+    href: "mailto:cathadservice@gmail.com",
   },
   {
     icon: Phone,
     label: "Téléphone",
-    value: "06 XX XX XX XX",
+    value: "06 71 94 94 30",
     href: "tel:+33600000000",
   },
   {
